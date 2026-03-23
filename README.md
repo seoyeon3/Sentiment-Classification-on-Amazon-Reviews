@@ -17,7 +17,7 @@ Extracting sentiment from large-scale textual reviews is essential for understan
    - Applied padding to ensure uniform input length  
 
 4. Model Development [![Notebook](https://img.shields.io/badge/Notebook-LSTM-blue)](https://github.com/seoyeon3/Sentiment-Classification-on-Amazon-Reviews/blob/main/MultilayeredLSTM_2classModel_with_trimming.ipynb) 
-   - Built LSTM models to capture sequential dependencies in text data  
+   - Built LSTM models to capture sequential dependencies in textual data
    - Trained separate models using review text only and title only  
    - Designed a multi-input architecture combining text and title representations  
    - Stacked LSTM layers to learn richer feature representations  
