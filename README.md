@@ -31,7 +31,7 @@ Extracting sentiment from large-scale textual reviews is essential for understan
 
 ## Key Results [![Report](https://img.shields.io/badge/Report-LSTM%20Model-blue)](https://github.com/seoyeon3/Sentiment-Classification-on-Amazon-Reviews/blob/main/LSTM%20Model%20Report.pdf)
 
-- Achieved highest performance with the combined text + title LSTM model (Test Accuracy: 87.08%)
+- Achieved best performance using a multi-input LSTM model combining review text and titles (Test Accuracy: 87.08%)
 - Outperformed single-input models:
   - Title-only model: 84.67%
   - Text-only model: 77.61%
